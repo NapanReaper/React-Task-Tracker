@@ -7,11 +7,10 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Breakfast",
-      "day": "Feb 2th at 10:30am",
-      "reminder": false
-    },
-    { "id": 3, "text": "Sleep", "day": "Feb 3th at 11:30pm", "reminder": true }
+      "text": "Test Reminder",
+      "day": "Feb",
+      "reminder": false,
+      "id": 2
+    }
   ]
 }
