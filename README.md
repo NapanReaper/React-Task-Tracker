@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm i && npm start`
 
 ### `npm server`
 
